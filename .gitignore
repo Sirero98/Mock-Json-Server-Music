@@ -1,0 +1,12 @@
+## .NET
+bin/
+obj/
+
+## IDE
+.idea/
+.vs/
+*.user
+*.suo
+
+## Data
+Data/songs.json
